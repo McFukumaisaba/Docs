@@ -1,5 +1,5 @@
 ---
-label: 参加方法
+label: リンク集
 icon: link
 order: 1
 ---

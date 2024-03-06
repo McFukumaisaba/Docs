@@ -25,11 +25,9 @@ order: 2
 
 - CoreProtect
 https://docs.fukumaisaba.net/plugins/coreprotect/
-- Home
-https://docs.fukumaisaba.net/plugins/home/
+- Money
+https://docs.fukumaisaba.net/plugins/money/
 - Jobs
 https://docs.fukumaisaba.net/plugins/jobs/
-- LWC
-https://docs.fukumaisaba.net/plugins/lwc/
-- Shop
-https://docs.fukumaisaba.net/plugins/shop/
+- Gsit
+https://docs.fukumaisaba.net/plugins/gsit/

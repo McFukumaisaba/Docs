@@ -21,5 +21,19 @@ TNTの爆発は無効化されます。
 
 - CoreProtect
 https://docs.fukumaisaba.net/plugins/coreprotect/
+- Money
+https://docs.fukumaisaba.net/plugins/money/
 - Jobs
 https://docs.fukumaisaba.net/plugins/jobs/
+- Home
+https://docs.fukumaisaba.net/plugins/home/
+- Shop
+https://docs.fukumaisaba.net/plugins/shop/
+- RedShop
+https://docs.fukumaisaba.net/plugins/redshop/
+- Hogo
+https://docs.fukumaisaba.net/plugins/hogo/
+- Gsit
+https://docs.fukumaisaba.net/plugins/gsit/
+- LWC
+https://docs.fukumaisaba.net/plugins/lwc/

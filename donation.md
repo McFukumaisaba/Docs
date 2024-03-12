@@ -24,7 +24,7 @@ icon: sponsor-tiers
 - イベント等の先行体験
 - CASINO鯖に寄付者の顔設置 (枠埋まり次第終了)
 - Discordサーバー内の名前の変更
-- Discordの絵文字作成
+- Discordの絵文字・~~スタンプ~~作成
 - Discordで寄付者ロールの付与
 - Discordでの収支報告書の確認
 
